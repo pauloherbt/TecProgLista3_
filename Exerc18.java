@@ -18,6 +18,7 @@ public class Exerc18 {
 		}
 		return contador;
 	}
+	//Questao 18
 	public static int[]organização(int vet[]){
 		int vetResultante[]=new int[vet.length];
 		int aux=0, index=0;

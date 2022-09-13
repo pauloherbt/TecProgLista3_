@@ -8,7 +8,7 @@ public class Exerc17 {
 		}
 		return soma;
 	}
-	//Questao 18
+	//Questao 17
 	public static int[] explosao(int vetA[]) {
 		int vetB[]=new int[somatorio(vetA)];
 		int index=0;
